@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titleText">Введите коэффициенты a,b,c :</string>
+    <string name="hitEditText">0</string>
+    <string name="titleButton">Вычислить</string>
+    <string name="result">Результат: 0</string>
+</resources>
