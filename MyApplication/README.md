@@ -9,3 +9,4 @@ In the layout of the application the key elements are:
 
 **Bottom line**: a complete application for calculating the roots of a quadratic equation.
 
+![Final App](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/SquareEquation.jpg)
