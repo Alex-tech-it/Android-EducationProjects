@@ -8,3 +8,5 @@ In the layout of the application the key elements are:
 3. TextView - to display the result.
 
 **Bottom line**: a complete application for calculating the roots of a quadratic equation.
+
+![Final App](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/SquareEquation.jpg)
