@@ -3,7 +3,7 @@
 In this task I propose that you create your own calculator.
 The special feature of this calculator will be to dynamically calculate an expression that is entered by the user.
 
-**In the files of this case study I have provided an unfinished solution which you need to modify and refine*.
+**In the files of this case study I have provided an unfinished solution which you need to modify and refine**.
 
 What needs to be refined:
 1. Add buttons to calculate percentages and a "+/-" button
