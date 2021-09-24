@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear">C</string>
+    <string name="minus">+/-</string>
+    <string name="percent">%</string>
+    <string name="division">÷</string>
+    <string name="multiplication">×</string>
+    <string name="subtraction">-</string>
+    <string name="adding">+</string>
+    <string name="equals">=</string>
+    <string name="comma">,</string>
+
+    <style name="textInput">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingHorizontal">8dp</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:maxLines">5</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="textInputHorizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingHorizontal">8dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="textOutput">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingHorizontal">8dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:layout_marginVertical">12dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+
+    <style name="cal_button">
+        <item name="android:layout_marginHorizontal">2dp</item>
+        <item name="android:background">@drawable/roundfinalbutton</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="cal_button_horizontal">
+        <item name="android:layout_marginHorizontal">2dp</item>
+        <item name="android:background">@drawable/roundfinalbutton</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="cal_NumberButton">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginHorizontal">6dp</item>
+        <item name="android:background">@drawable/roundnumberfinak</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="cal_NumberButton_Horizontal">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginHorizontal">4dp</item>
+        <item name="android:background">@drawable/roundnumberfinak</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="c_button_style">
+        <item name="android:layout_marginHorizontal">2dp</item>
+        <item name="android:background">@drawable/final_c_button</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="c_button_style_Horizontal">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginHorizontal">2dp</item>
+        <item name="android:background">@drawable/final_c_button</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="equls_button_Style">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginHorizontal">6dp</item>
+        <item name="android:colorBackground">@color/light_green</item>
+        <item name="android:background">@drawable/final_equals_button</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="equls_button_Style_Horizontal">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginHorizontal">6dp</item>
+        <item name="android:colorBackground">@color/light_green</item>
+        <item name="android:background">@drawable/final_equals_button</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="right_operation_style">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginHorizontal">6dp</item>
+        <item name="android:background">@drawable/final_operation_left</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="right_operation_style_Horizontal">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginHorizontal">6dp</item>
+        <item name="android:background">@drawable/final_operation_left</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
