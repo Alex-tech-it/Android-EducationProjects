@@ -1,4 +1,4 @@
-# Android-PetProjects
+# Android-EducationProjects
 ☂️ Small projects during training
 
 # Cases...
