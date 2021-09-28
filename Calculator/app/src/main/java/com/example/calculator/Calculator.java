@@ -88,6 +88,14 @@ public class Calculator {
         return this.textResult;
     }
 
+    public Boolean getComma() { return this.countComma; }
+
+    public void setText(String value) { inputString.setLength(0); inputString.append(value); }
+
+    public void setResult(String value) { textResult = value; }
+
+    public void setComma(Boolean value) { countComma = value; }
+
     private void calculate(){
         String resultExpresion = inputString.toString();
         ArrayList<Double> testListNumbers = new ArrayList<Double>();
@@ -98,7 +106,7 @@ public class Calculator {
                 number.append("-");
             } else {
                 if (resultExpresion.charAt(i) >= '0' && resultExpresion.charAt(i) <= '9' ||
-                        resultExpresion.charAt(i) == ',') {
+                        resultExpresion.charAt(i) == ',' || resultExpresion.charAt(i) == 'E') {
                     if (resultExpresion.charAt(i) == ',') {
                         number.append('.');
                     } else {
