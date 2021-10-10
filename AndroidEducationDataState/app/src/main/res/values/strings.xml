@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android Education Data State</string>
+    <string name="group">Group students</string>
+    <string name="titleRecycleView">Студенты 131-ПИо группы</string>
+    <string name="fullName">ФИО</string>
+    <string name="gender">Пол</string>
+    <string name="programLang">Предпочитаемые ЯП</string>
+    <string name="preferredIDE">Предпочитаемые IDE</string>
+    <string name="hintFullName">Иванов Иван Иванович</string>
+    <string name="hintLang">С++, C#, Java, Go, Swift, PHP и т.д </string>
+    <string name="hintIDE">Android Studio, Intellij, Visual Studio и т.д </string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить студента</string>
+
+    <style name="addBtn">Добавить</style>
+
+    <string-array name="genders">
+        <item>Мужской</item>
+        <item>Женский</item>
+        <item>Трансгендер</item>
+    </string-array>
+</resources>
