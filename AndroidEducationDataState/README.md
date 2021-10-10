@@ -15,4 +15,6 @@ In this task I propose that you create an application to store information about
 
 **Bottom line**: An unfinished example solution.
 
-![Final App](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/Calculator.jpg)
+![Main Screen](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/AndroidEducationDataState%20Main%20Screen.jpg)
+![Add Screen](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/AndroidEducationDataState%20Add%20Screen.jpg)
+![Changed Screen](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/AndroidEducationDataState%20Changed%20Screen.jpg)
