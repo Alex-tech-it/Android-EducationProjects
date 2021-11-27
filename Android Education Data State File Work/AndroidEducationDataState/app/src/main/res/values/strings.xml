@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Android Education Data State</string>
+    <string name="group">Group students</string>
+    <string name="titleRecycleView">Студенты 131-ПИо группы</string>
+    <string name="fullName">ФИО</string>
+    <string name="gender">Пол</string>
+    <string name="programLang">Предпочитаемые ЯП</string>
+    <string name="preferredIDE">Предпочитаемые IDE</string>
+    <string name="hintFullName">Иванов Иван Иванович</string>
+    <string name="hintLang">С++, C#, Java, Go, Swift, PHP и т.д </string>
+    <string name="hintIDE">Android Studio, Intellij, Visual Studio и т.д </string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить студента</string>
+    <string name="files">Открыть или сохранить данные</string>
+    <style name="addBtn">Добавить</style>
+
+    <string-array name="genders">
+        <item>Мужской</item>
+        <item>Женский</item>
+        <item>Трансгендер</item>
+    </string-array>
+
+    <string name="open_txt">Open .txt</string>
+    <string name="open_csv">Open .csv</string>
+    <string name="open_json">Open .json</string>
+    <string name="open_xml">Open .xml</string>
+
+    <string name="save_txt">Save .txt</string>
+    <string name="save_csv">Save .csv</string>
+    <string name="save_json">Save .json</string>
+    <string name="save_xml">Save .xml</string>
+
+    <string name="titleOpenAndSave">Open or Save to file</string>
+</resources>
