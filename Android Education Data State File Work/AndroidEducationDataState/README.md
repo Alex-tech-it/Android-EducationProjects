@@ -5,10 +5,10 @@ Here you need to refine the saving and output from files set of data
 with students in different file formats (.txt, .csv, .json, .xml)
 
 **Main functionality:** 
-(Еhe same as in the last problem)
+(The same as in the last problem)
 
 **Points:**
-(Еhe same as in the last problem)
+(The same as in the last problem)
 
 **In the files of this case study I have provided an unfinished solution which you need to modify and refine**.
 
