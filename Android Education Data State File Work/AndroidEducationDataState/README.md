@@ -14,7 +14,9 @@ with students in different file formats (.txt, .csv, .json, .xml)
 
 **Bottom line**: An unfinished example solution.
 
-![Main Screen](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/AndroidEducationDataState%20Main%20Screen.jpg)
+![Main Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/AES%20Files_2.jpg)
 ![Add Screen](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/AndroidEducationDataState%20Add%20Screen.jpg)
 ![Changed Screen](https://github.com/Alex-tech-it/Android-PetProjects/blob/main/Img/AndroidEducationDataState%20Changed%20Screen.jpg)
+![Save - Open](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/AES%20Files_1.jpg)
+
 
