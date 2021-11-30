@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Education Data State</string>
+    <string name="group">Companies</string>
+    <string name="titleRecycleView">Список компаний</string>
+    <string name="companyName">Имя компании</string>
+    <string name="companyFounder">Основатель компании</string>
+    <string name="companyProduct">Продукты компании</string>
+    <string name="hintCompanyName">Apple</string>
+    <string name="hintCompanyFounder">Тим Кук</string>
+    <string name="hintCompanyProduct">IPhone, IPad, IOS и т.д</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить компанию</string>
+    <style name="addBtn">Добавить</style>
+
+</resources>
