@@ -1,25 +1,25 @@
 # ⏪ **Group Companies** ⏩
 
 
-##**Login screen**
+# **Login screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/reg.jpg)
 
-##**Registration screen**
+# **Registration screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/reg.jpg)
 
-##**Main screen**
+# **Main screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/main_activity.jpg)
 
-##**Product list screen**
+# **Product list screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/products_list.jpg)
 
-##**Add compane screen**
+# **Add compane screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/add_compane.jpg)
 
-##**Change & Delete compane screen**
+# **Change & Delete compane screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/Change_delete_compane.jpg)
 
-##**Add product screen**
+# **Add product screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/add_product.jpg)
 
 ##**Change & Delete product screen**
