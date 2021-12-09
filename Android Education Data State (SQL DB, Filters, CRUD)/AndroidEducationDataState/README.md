@@ -22,14 +22,14 @@
 # **Add product screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/add_product.jpg)
 
-##**Change & Delete product screen**
+# **Change & Delete product screen**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/change_delete_product.jpg)
 
-##**Example filter name compane**
+# **Example filter name compane**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/filter_name_compane.jpg)
 
 
-##**Example filter product price**
+# **Example filter product price**
 ![Reg Screen](https://github.com/Alex-tech-it/Android-EducationProjects/blob/main/Img/filter_price_product.jpg)
 
 
