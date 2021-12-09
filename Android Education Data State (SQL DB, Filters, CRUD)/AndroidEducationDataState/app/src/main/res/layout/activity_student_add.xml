@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StudentAdd">
+
+    <include
+        android:id="@+id/tool_bar"
+        layout="@layout/app_bar"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tool_bar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="50dp">
+
+            <TextView
+                android:id="@+id/titleCompanyName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="16dp"
+                android:paddingVertical="8dp"
+                android:text="@string/companyName"
+                android:textColor="?attr/colorOnSecondary"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tool_bar" />
+
+            <EditText
+                android:id="@+id/companyNameEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_style"
+                android:hint="@string/hintCompanyName"
+                android:inputType="text"
+                android:maxLength="40"
+                android:maxLines="1"
+                android:padding="16dp"
+                android:textColor="?attr/colorOnSecondary"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/titleCompanyName" />
+
+            <TextView
+                android:id="@+id/titleCompanyFounder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="16dp"
+                android:paddingVertical="8dp"
+                android:text="@string/companyFounder"
+                android:textColor="?attr/colorOnSecondary"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/companyNameEditText" />
+
+            <EditText
+                android:id="@+id/companyFounderEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_style"
+                android:hint="@string/hintCompanyFounder"
+                android:inputType="text"
+                android:maxLength="80"
+                android:maxLines="1"
+                android:padding="16dp"
+                android:textColor="?attr/colorOnSecondary"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/titleCompanyFounder" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnAddProduct"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginVertical="2dp"
+                android:background="?android:selectableItemBackground"
+                android:text="@string/addProduct"
+                android:textAlignment="textStart"
+                android:textSize="12sp"
+                android:onClick="onAddProductClick"/>
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/activeRecyclerViewProduct"
+                android:scrollbars="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="420dp"
+                android:layout_marginHorizontal="16dp" />
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnDelete"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginVertical="12dp"
+                android:background="@drawable/edit_text_style"
+                android:onClick="onAddClick"
+                android:text="@string/add"
+                android:textColor="?attr/colorOnSecondary"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

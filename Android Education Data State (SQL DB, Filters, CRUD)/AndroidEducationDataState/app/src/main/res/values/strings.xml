@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Android Education Data State</string>
+    <string name="hintSearchText">Найти…</string>
+    <string name="group">Companies</string>
+    <string name="titleRecycleView">Список компаний</string>
+    <string name="companyName">Имя компании</string>
+    <string name="companyFounder">Основатель компании</string>
+    <string name="companyProduct">Продукты компании</string>
+    <string name="hintCompanyName">Apple</string>
+    <string name="hintCompanyFounder">Тим Кук</string>
+    <string name="hintCompanyProduct">IPhone, IPad, IOS и т.д</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить компанию</string>
+
+    <string name="productName">Имя продукта</string>
+    <string name="productPrice">Цена</string>
+    <string name="productType">Категория продукта</string>
+
+    <string name="addProduct">+ добавить продукт</string>
+    <string name="btnAddProduct">Добавить продукт</string>
+    <string name="hintProductName">IPhone</string>
+    <string name="hintProductPrice">59 999 руб.</string>
+
+    <style name="addBtn">Добавить</style>
+
+    <string name="filterItem">Фильтр объектов</string>
+    <string name="filterItemCheck">Фильтр свойств</string>
+    <string name="filterCompanyName">Компания</string>
+    <string name="filterCompanyProduct">Продукт</string>
+
+    <string name="filterCheckBoxName">Наименование</string>
+    <string name="filterCheckBoxPrice">Цена</string>
+    <string name="filterCheckBoxFounder">Основатель</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="loginAuth">Авторизация</string>
+    <string name="loginButtonTitle">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="registrationButton">Зарегистрироваться</string>
+    <string name="loginAuthPreviewText">Добро пожаловать в приложение "Companies"!
+        Мы рады вас видеть и просим пройти авторизацию либо зарегистрироваться</string>
+    <string name="regPreviewText">Добро пожаловать в приложение "Companies"!
+        Необходимо пройти регистрацию, чтобы пользоваться нашим приложением.
+        Укажите свою почту и придумай пароль</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+
+</resources>
